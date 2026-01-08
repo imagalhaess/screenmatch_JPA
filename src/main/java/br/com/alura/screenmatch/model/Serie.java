@@ -134,9 +134,7 @@ public class Serie {
                 ", totalTemporadas=" + totalTemporadas +
                 ", avaliacao=" + avaliacao +
                 ", atores='" + atores + '\'' +
-                ", poster='" + poster + '\'' +
-                ", sinopse='" + sinopse + '\'' +
-                ", episodios='" + episodios + '\'';
+                ", sinopse='" + sinopse + '\'';
     }
 
     private Double converterAvaliacao(String avaliacao) {
